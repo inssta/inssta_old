@@ -1,0 +1,1 @@
+# inssta server centos
